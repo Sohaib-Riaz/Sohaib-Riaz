@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Sohaib 👋
 
-<!--
-**Sohaib-Riaz/Sohaib-Riaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- 🎓 Recently completed my degree
+- 💻 Currently learning Java and working towards becoming a Java Backend Developer
+- 🚀 Learning path: Java → Spring Boot → REST APIs → Databases
 
-Here are some ideas to get you started:
+## Skills
+- Java (OOP, Collections)
+- Git & GitHub
+- SQL (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Currently Learning
+- 📚 Java Collections Framework
+- 🔨 Building small practice projects
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/muhammadsohaibriaz1
+- Email: muhammadsohaibriaz19@gmail.com
+
+⭐ Check out my repositories below to see my practice projects!
