@@ -1,4 +1,4 @@
- Hi, I'm Sohaib 👋
+ Hi, I'm Sohaib 
 
 About Me
 - 🎓 Recently completed my degree
