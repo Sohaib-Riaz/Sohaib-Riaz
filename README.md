@@ -1,7 +1,7 @@
  Hi, I'm Sohaib 
 
 About Me
-- 🎓 Recently completed my degree
+- 🎓 Recently completed my degree (BS Computer Science)
 - 💻 Currently learning Java and working towards becoming a Java Backend Developer
 - 🚀 Learning path: Java → Spring Boot → REST APIs → Databases
 
